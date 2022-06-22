@@ -1,7 +1,7 @@
 ---
 title: Something very important 
 date: "2022-06-17T22:40:32.169Z"
-description: Something very important
+description: interesting? of course, my darling. 
 ---
 
 **You expected something important, but**
